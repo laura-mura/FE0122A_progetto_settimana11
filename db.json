@@ -1,0 +1,103 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "The Avengers",
+      "image": "assets/imgFilm/avengers.jpg",
+      "isWatched": false,
+      "isFav": false
+    },
+    {
+      "id": 2,
+      "title": "Avatar",
+      "image": "assets/imgFilm/avatar.jpg",
+      "isWatched": false,
+      "isFav": true
+    },
+    {
+      "id": 3,
+      "title": "Benvenuti al sud",
+      "image": "assets/imgFilm/benvenuti-al-sud.jpg",
+      "ishatched": true,
+      "isFav": false,
+      "isWatched": true
+    },
+    {
+      "id": 4,
+      "title": "Diabolik",
+      "image": "assets/imgFilm/Diabolik.jpg",
+      "isWatched": true,
+      "isFav": false
+    },
+    {
+      "id": 5,
+      "title": "Dune",
+      "image": "assets/imgFilm/Dune.jpg",
+      "isWatched": false,
+      "isFav": true
+    },
+    {
+      "id": 6,
+      "title": "Harry Potter",
+      "image": "assets/imgFilm/harry-potter.jpg",
+      "isWatched": false,
+      "isFav": true
+    },
+    {
+      "id": 7,
+      "title": "House Of Gucci",
+      "image": "assets/imgFilm/house-of-gucci.jpg",
+      "isWatched": false,
+      "isFav": false
+    },
+    {
+      "id": 8,
+      "title": "La Migliore Offerta",
+      "image": "assets/imgFilm/la-migliore-offerta.jpg",
+      "isWatched": false,
+      "isFav": false
+    },
+    {
+      "id": 9,
+      "title": "Maleficent",
+      "image": "assets/imgFilm/maleficent.jpg",
+      "isWatched": false,
+      "isFav": true
+    },
+    {
+      "id": 10,
+      "title": "Matrix",
+      "image": "assets/imgFilm/matrix.jpg",
+      "isWatched": true,
+      "isFav": false
+    },
+    {
+      "id": 11,
+      "title": "Spiderman",
+      "image": "assets/imgFilm/spiderman.jpg",
+      "isWatched": true,
+      "isFav": false
+    },
+    {
+      "id": 12,
+      "title": "Tenet",
+      "image": "assets/imgFilm/Tenet.jpg",
+      "isWatched": false,
+      "isFav": true
+    },
+    {
+      "id": 13,
+      "title": "Batman",
+      "image": "assets/imgFilm/the_batman_nuovo.jpg",
+      "isWatched": false,
+      "isFav": false
+    },
+    {
+      "id": 14,
+      "title": "Titanic",
+      "image": "assets/imgFilm/Titanic.jpg",
+      "isWatched": false,
+      "isFav": true
+    }
+  ]
+}

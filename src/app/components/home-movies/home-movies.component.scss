@@ -1,0 +1,20 @@
+.watch-list-wrapper{
+  margin: 50px;
+  text-align: center;
+
+h3{
+  text-transform: uppercase;
+  margin-top: 40px;
+}
+
+.to-watch{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+app-movies-tile {
+  margin: 30px 15px 30px 15px;
+}
+
+}

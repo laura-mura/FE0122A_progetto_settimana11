@@ -1,0 +1,22 @@
+<div class="add-movie">
+  <form class="add-movie-form" (ngSubmit)="onSubmit()">
+    <div class="form-control">
+      <label for="movieTitle">Nome del film</label>
+      <input type="text" name="movieTitle" [(ngModel)]="movieTitle" id="movieTitle" placeholder="Aggiungi un film">
+    </div>
+    <div class="form-control">
+      <label for="image">Immagine Url</label>
+      <input type="text" name="image" [(ngModel)]="image" id="image" placeholder="Aggiungi un Url">
+    </div>
+    <div class="form-control form-control-check">
+      <label for="watched">Visto</label>
+      <input type="checkbox" name="watched" [(ngModel)]="isWatched" id="watched">
+    </div>
+    <div class="form-control form-control-check">
+      <label for="watched">Favoriti</label>
+      <input type="checkbox" name="fav" [(ngModel)]="isFav" id="fav">
+    </div>
+    <input type="submit" value="Aggiungi" class="btn btn-block">
+  </form>
+
+</div>
